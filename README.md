@@ -39,8 +39,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Uses a module inside a class
-- implementa a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html)
+- Use a module inside a class
+- implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,7 +60,7 @@ Clone this repository to your desired folder:
 
 ```
   git clone git@github.com:KanzaTahreem/Enumerable.git
-  cd Ruby-Morse-Decoder
+  cd Enumerable
 ```
 
 ### Install
@@ -76,7 +76,7 @@ Install thr project dependencies with:
 To run the project, execute the following command:
 
 ```
-  ruby decode_message.rb
+  ruby my_list.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
