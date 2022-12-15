@@ -6,10 +6,8 @@ class MyList
     @list = args
   end
 
-  def each
-    for i in 0...@list.length
-      yield @list[i]
-    end
+  def each(&block)
+    @list.each(&block)
   end
 end
 
