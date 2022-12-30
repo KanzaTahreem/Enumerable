@@ -21,7 +21,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Enumerable <a name="about-the-project"></a>
- In this project, we learned to use a module inside a class. For this we created a class `MyList` and a module `MyEnumerable`. Our module `MyEnumerable` implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html)
+ In this project, we learned to use a module inside a class. For this we created a class `MyList` and a module `MyEnumerable`. Our module `MyEnumerable` implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
